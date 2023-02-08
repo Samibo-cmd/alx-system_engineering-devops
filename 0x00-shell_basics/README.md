@@ -14,3 +14,4 @@
 13-symbolic_link contains a command to create symbolic link
 14-copy_html contains the command to copy files to parent directory from the current working directory
 100-lets_move contains the command to move all files begining with upper case to another directory
+102-tree contains the command that creates multiple directories
