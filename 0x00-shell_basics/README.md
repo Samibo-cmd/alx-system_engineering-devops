@@ -9,3 +9,4 @@
 8-firstdelete contains the delete command
 9-firstdirdeletion contain the command to delete a directory
 10-back contains the command to goes back to the previous directory
+11-lists contains ls -al . .. /boot command
