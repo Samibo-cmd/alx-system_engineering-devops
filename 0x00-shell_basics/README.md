@@ -12,3 +12,4 @@
 11-lists contains ls -al . .. /boot command
 12-file_type contains command to view the type of a file
 13-symbolic_link contains a command to create symbolic link
+14-copy_html contains the command to copy files to parent directory from the current working directory
