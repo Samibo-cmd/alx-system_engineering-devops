@@ -1,5 +1,6 @@
-0-current_working_directory contains a command that prints current directory
-1-listit contains ls command use to display the contents list of your current directory
-2-bring_me_home contains a command cd use to change directory
-3-listfiles contains the command ls -l
-4-listmorefiles contains the command to display content of the current directory in a long format with hiden file
+0-current_working_directory contains the command pwd that prints current directory
+1-listit contains the command ls that displays the content of current directory
+2-bring_me_home contains the command cd that changes the working directory
+3-listfiles contains the command ls -l that displays the content of current directory in a long format
+4-listmorefiles contains the command ls -la that displays the content of current directory with hidden file in a long format
+5-listfilesdigitonly contains the command ls --author -la thatdisplays the content of current directory including user and group ID, hidden file and long format
