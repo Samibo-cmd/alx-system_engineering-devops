@@ -10,3 +10,4 @@
 9-firstdirdeletion contain the command to delete a directory
 10-back contains the command to goes back to the previous directory
 11-lists contains ls -al . .. /boot command
+12-file_type contains command to view the type of a file
