@@ -16,3 +16,4 @@
 100-lets_move contains the command to move all files begining with upper case to another directory
 102-tree contains the command that creates multiple directories
 103-commas contains a lisiting command
+school.mgc contains command line to create magic file
