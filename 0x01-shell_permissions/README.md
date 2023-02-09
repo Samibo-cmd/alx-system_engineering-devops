@@ -4,3 +4,4 @@
 3-new_owner contains the command that changes the owner of a file
 4-empty contains the command "touch" that creates an empty file
 5-execute contains the command "chmod" that changes the permission of file
+6-multiple_permissions contains the command "chmod" that modifies file permission
