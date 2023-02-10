@@ -13,3 +13,4 @@
 12-directory_permissions contains a command to create a directory with permission
 13-change_group contains the command to change group owner
 100-change_owner_and_group contains command to change owner and group owner of a directory
+101-symbolic_link_permissions contains the command to change ownership of symbolic link file
