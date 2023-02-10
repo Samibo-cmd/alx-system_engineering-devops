@@ -9,3 +9,4 @@
 8-James_Bond contains the command "chmod" that modifies files
 9-John_Doe contains the command to change file mode
 10-mirror_permissions contains change mode command
+11-directories_permissions contains command to modify subdirectories
