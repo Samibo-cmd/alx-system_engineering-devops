@@ -5,3 +5,4 @@
 4-lastlines contains a command to display the last 10 lines of a file.
 5-firstlines contains the command that displays the first 10 lines of a file
 6-third_line contains the command that displays the 3rd line of a file
+7-file contains a command to create a file with content
