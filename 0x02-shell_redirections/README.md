@@ -7,3 +7,4 @@
 6-third_line contains the command that displays the 3rd line of a file
 7-file contains a command to create a file with content
 8-cwd_state contains a command that write the result of a command in another file
+9-duplicate_last_line contains a command to duplicate the last line of a file
