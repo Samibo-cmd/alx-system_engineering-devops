@@ -13,3 +13,4 @@
 12-newest_files contains a command to list newest files in the current directory
 13-unique contains a command that sorts unique file
 14-findthatword contains a command to diplay lines containing the pattern "root"
+15-countthatword contains a command to display the number of lines containing a text in a file
