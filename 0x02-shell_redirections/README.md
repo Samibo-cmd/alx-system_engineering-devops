@@ -12,3 +12,4 @@
 11-directories contains a command line that counts the number of directories and subdirectories in the current directory
 12-newest_files contains a command to list newest files in the current directory
 13-unique contains a command that sorts unique file
+14-findthatword contains a command to diplay lines containing the pattern "root"
