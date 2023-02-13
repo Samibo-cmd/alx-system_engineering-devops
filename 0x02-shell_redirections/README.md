@@ -19,3 +19,4 @@
 18-letteronly contains a command to print all lines starting with a letter in a file
 19-AZ contains a command that replaces letters
 20-hiago contains a command to delete some characters in a file
+21-reverse contains a command to reverse input
