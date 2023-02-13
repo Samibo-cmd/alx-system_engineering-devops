@@ -10,3 +10,4 @@
 9-duplicate_last_line contains a command to duplicate the last line of a file
 10-no_more_js contains a command to delete all the files with the same extension in a directory
 11-directories contains a command line that counts the number of directories and subdirectories in the current directory
+12-newest_files contains a command to list newest files in the current directory
