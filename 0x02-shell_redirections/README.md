@@ -23,3 +23,4 @@
 22-users_and_homes contains a command that displays all users and their home directories, sorted by users
 100-empty_casks contains a command that finds all empty files and directories in the current working directory
 101-gifs contains the comand to print the list of file with .gif
+102-acrostic contains a command to decode acrostic that use the first letter of each line
