@@ -11,3 +11,4 @@
 10-no_more_js contains a command to delete all the files with the same extension in a directory
 11-directories contains a command line that counts the number of directories and subdirectories in the current directory
 12-newest_files contains a command to list newest files in the current directory
+13-unique contains a command that sorts unique file
