@@ -8,3 +8,4 @@
 7-file contains a command to create a file with content
 8-cwd_state contains a command that write the result of a command in another file
 9-duplicate_last_line contains a command to duplicate the last line of a file
+10-no_more_js contains a command to delete all the files with the same extension in a directory
