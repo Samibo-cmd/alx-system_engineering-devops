@@ -20,3 +20,4 @@
 19-AZ contains a command that replaces letters
 20-hiago contains a command to delete some characters in a file
 21-reverse contains a command to reverse input
+22-users_and_homes contains a command that displays all users and their home directories, sorted by users
