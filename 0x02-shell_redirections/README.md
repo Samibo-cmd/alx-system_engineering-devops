@@ -6,3 +6,4 @@
 5-firstlines contains the command that displays the first 10 lines of a file
 6-third_line contains the command that displays the 3rd line of a file
 7-file contains a command to create a file with content
+8-cwd_state contains a command that write the result of a command in another file
