@@ -15,3 +15,4 @@
 14-findthatword contains a command to diplay lines containing the pattern "root"
 15-countthatword contains a command to display the number of lines containing a text in a file
 16-whatsnext contains the command that displays line pattern in a file
+17-hidethisword contains a command that prints lines that do not contain a text pattern
