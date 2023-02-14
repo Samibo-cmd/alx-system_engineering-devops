@@ -13,3 +13,4 @@
 12-combinations contains command to print all possible two letters
 13-print_float contains a command to print a number with 2 decimal point
 100-decimal_to_hexadecimal contains command to convert from one base to another
+101-rot13 contains a command that encodes and decodes a text using rot13
