@@ -10,3 +10,4 @@
 9-divide_and_rule contains a command that divides one environment variable by another
 10-love_exponent_breath contains the exponent command of variables
 11-binary_to_decimal
+12-combinations contains command to print all possible two letters
