@@ -7,3 +7,4 @@
 6-create_local_variable contains the command to create a local variable
 7-create_global_variable contains a command to create a global variable
 8-true_knowledge contains a command to add number to variable
+9-divide_and_rule contains a command that divides one environment variable by another
