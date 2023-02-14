@@ -6,3 +6,4 @@
 5-local_variables contains a command to create global, local variables, and function
 6-create_local_variable contains the command to create a local variable
 7-create_global_variable contains a command to create a global variable
+8-true_knowledge contains a command to add number to variable
