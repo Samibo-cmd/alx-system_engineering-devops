@@ -15,3 +15,4 @@
 100-decimal_to_hexadecimal contains command to convert from one base to another
 101-rot13 contains a command that encodes and decodes a text using rot13
 102-odd contains a command used to print all lines from the input, starting with the first line
+103-water_and_stir contains command that adds two numbers stored in environment variables
