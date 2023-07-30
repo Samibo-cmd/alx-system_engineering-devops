@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#fizzbuzz stuf
+#a Bash script that displays numbers from 1 to 100.
 
 count=1
 while [ $count -ne 101 ]

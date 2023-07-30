@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#using ls as a variable stuff
+#a bash script that displays the content of the current directory
 
 list=$(ls)
 for i in $list
