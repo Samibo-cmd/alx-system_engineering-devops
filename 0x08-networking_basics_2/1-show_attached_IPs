@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#A Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+
+interfaces=$(ip -o link show | awk '{print $2}' | sed 's/://' | grep -v 'lo')
+
+for interface in $interfaces; do
+    ipv4=$(ip -o -4 addr show dev $interface | awk '{print $4}')
+    echo "Interface $interface: $ipv4"
+done
