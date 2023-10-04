@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #Connects without password using Puppet
 
-file { '/etc/ssh/ssh_config'
-  ensure => present,
+file { '/etc/ssh/ssh_config':
+     ensure => present,
 }
 
 file_line { 'Turn off password auth':
