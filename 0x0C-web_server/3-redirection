@@ -1,10 +1,23 @@
 #!/usr/bin/env bash
-#Configures Nginx server to redirect to another page.
+# This script installs a nginx web server
 
-sudo apt-get -y update
-sudo apt-get -y install nginx
-sudo ufw allow 'Nginx HTTP'
-echo "Hello World!" | sudo tee /var/www/html/index
-sudo sed -i '/listen 80 default_server/a rewrite ^/redirect_me https://www.yputube.com/ permanent:
-' /etc/nginx/sites-available/default
+sudo apt update
+sudo apt install nginx -y
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw --force enable
+sudo ufw status
+systemctl status nginx
+mkdir -p /var/www/html/
+touch /var/www/html/index.html
+echo 'Hello World!' | sudo tee /var/www/html/index.html
+echo "server {
+    listen 80;
+    listen [::]:80 default_server;
+    root   /etc/nginx/html;
+    index  index.html;
+    location /redirect_me {
+        return 301 https://twitter.com/Emmanue17280546;
+    }
+}" > /etc/nginx/sites-available/default
 sudo service nginx restart
