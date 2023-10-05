@@ -11,13 +11,9 @@ systemctl status nginx
 mkdir -p /var/www/html/
 touch /var/www/html/index.html
 echo 'Hello World!' | sudo tee /var/www/html/index.html
-echo "server {
-    listen 80;
-    listen [::]:80 default_server;
-    root   /etc/nginx/html;
-    index  index.html;
-    location /redirect_me {
-        return 301 https://twitter.com/Emmanue17280546;
+printf %s "server {
+location /redirect_me {
+        return 301 http://google.com/doodles/;
     }
 }" > /etc/nginx/sites-available/default
 sudo service nginx restart
