@@ -2,8 +2,8 @@
 """A script that fetches info about all employees using an api
    and exports it in json format"""
 
-import requests
 import json
+import requests
 
 
 base_url = 'https://jsonplaceholder.typicode.com'

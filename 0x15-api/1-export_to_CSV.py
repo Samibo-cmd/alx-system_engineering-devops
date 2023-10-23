@@ -2,9 +2,9 @@
 """A script that fetches info about a given employee using an api
    and exports it in csv format"""
 
-import sys
-import requests
 import json
+import requests
+import sys
 
 
 base_url = 'https://jsonplaceholder.typicode.com'
