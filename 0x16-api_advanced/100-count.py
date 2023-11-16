@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 """Module for task 3"""
 
+
 import requests
 """module for request"""
+
 
 def count_words(subreddit, word_list, hot_list=[], viewed_count=0, after=''):
     """
