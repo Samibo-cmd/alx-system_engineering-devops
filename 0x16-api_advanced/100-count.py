@@ -3,7 +3,7 @@
 
 
 import requests
-
+"""module for request"""
 
 def count_words(subreddit, word_list, hot_list=[], viewed_count=0, after=''):
     """
