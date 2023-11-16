@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-"""
-    API query.
-
-"""
+"""Module for task 3"""
 
 import requests
 
