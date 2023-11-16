@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
     API query.
-
+    API task.
 """
 import requests
 
